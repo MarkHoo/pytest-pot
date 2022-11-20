@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pytest-pot"
-version = "0.0.1"
+version = "0.2.0"
 authors = [
   { name="Mark Hoo", email="markhoo@foxmail.com" },
 ]
@@ -25,7 +25,7 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/MarkHoo/pytest-tea"
-"Bug Tracker" = "https://github.com/MarkHoo/pytest-tea/issues"
+"Homepage" = "https://github.com/MarkHoo/pytest_pot"
+"Bug Tracker" = "https://github.com/MarkHoo/pytest_pot/issues"
 
 
